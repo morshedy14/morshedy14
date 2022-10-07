@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morshedy14
 - 👀 I’m interested in AI and ML 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on how to start after finishing my python course
+- 🌱 I’m currently python developer 
+- 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me: morshedy149@gmail.com
 
 <!---
