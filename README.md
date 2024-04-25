@@ -23,10 +23,6 @@ Want to connect or chat about tech? You can find me on:
 - Email: [morshedy149](morshedy149@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/folders/1Bs_THkbNyRGiCZcoi2U_LXmMeRW_Aq1X?usp=sharing)
 
-
-
-
-
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshedy14" alt="Morshedy" /> </p>
@@ -59,3 +55,7 @@ Want to connect or chat about tech? You can find me on:
 <br>
 
 
+### 📊 Github Stats
+![morshedy14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=morshedy14&theme=dracula&hide_border=false)
+![morshedy14's Stats](https://github-readme-stats.vercel.app/api?username=morshedy14&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![morshedy14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morshedy14&theme=dracula&show_icons=true&hide_border=false&layout=compact)
