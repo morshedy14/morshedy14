@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome, nice to see you.</h1>
 
 
-I'm [Mohamed Morshedy], a Machine Learning Engineer, Robotics Enthusiast, and Data Science aficionado. Welcome to my GitHub profile! I enjoy diving into data-driven projects, building robots, and exploring new AI technologies.
+I'm Mohamed Morshedy, a Machine Learning Engineer, Robotics Enthusiast, and Data Science aficionado. Welcome to my GitHub profile! I enjoy diving into data-driven projects, building robots, and exploring new AI technologies.
 
   <img align="right" alt="GIF" src="https://github.com/morshedy14/morshedy14/blob/main/code.gif?raw=true" width="500" height="320" />
   
